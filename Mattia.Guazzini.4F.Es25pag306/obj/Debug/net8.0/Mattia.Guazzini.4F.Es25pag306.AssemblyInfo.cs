@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mattia.Guazzini.4F.Es25pag306")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02f276aac104fd98fa3fcbe9c54785d0cef003c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebdc7ea3fcba15aa61a6b9607dc538cabb65eac9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mattia.Guazzini.4F.Es25pag306")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mattia.Guazzini.4F.Es25pag306")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
