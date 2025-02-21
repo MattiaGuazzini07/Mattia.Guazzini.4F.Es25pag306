@@ -12,6 +12,22 @@ class Program
 
         Console.WriteLine(pharmacy.ToString());
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         Console.WriteLine("Insert a medicinal name to get the price");
         string medicinalName = Console.ReadLine();
         Console.WriteLine($"The price of {medicinalName} is {pharmacy.MedicinalPrice(medicinalName)}");
