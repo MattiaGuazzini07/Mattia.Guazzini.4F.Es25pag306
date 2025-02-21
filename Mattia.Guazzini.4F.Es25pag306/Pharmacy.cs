@@ -13,11 +13,11 @@ public class Pharmacy
         Medicinals = new List<Medicinal>();
     }
     /// <summary>
-    /// Add a medicinal to the list
+    /// User add a new medicinal to the list
     /// </summary>
     /// <param name="medicinalName"></param>
     /// <param name="medicinalPrice"></param>
-    public void AddMedicinal()
+    public void AddNewMedicinal()
     {
         Console.WriteLine("Which is the name of the medicinal?");
         string medicinalName = Console.ReadLine();
