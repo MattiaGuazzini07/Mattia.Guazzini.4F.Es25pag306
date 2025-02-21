@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VqcC+rH+o6g=",
+  "dgSpecHash": "qVrpqhzD/E0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rohoz\\RiderProjects\\Mattia.Guazzini.4F.Es25pag306\\Mattia.Guazzini.4F.Es25pag306\\Mattia.Guazzini.4F.Es25pag306.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\rohoz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\rohoz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\rohoz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\rohoz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\matti\\Desktop\\scuola\\informatica\\C#\\Mattia.Guazzini.4F.Es25pag306\\Mattia.Guazzini.4F.Es25pag306\\Mattia.Guazzini.4F.Es25pag306.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
