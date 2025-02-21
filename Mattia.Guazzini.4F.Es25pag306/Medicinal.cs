@@ -2,9 +2,9 @@
 
 public class Medicinal : Pharmacy
 {
-    public string MedicinalName { get; set; }
-    public double MedicinalPrice { get; set; }
-    public Medicinal(string name, int nMedicinals, double medicinalPrice, string medicinalName) : base(name, nMedicinals)
+    public string MedicinalName { get; set; } // Name of the medicinal
+    public double MedicinalPrice { get; set; } // Price of the medicinal
+    public Medicinal(string name, int nMedicinals, double medicinalPrice, string medicinalName) : base(name, nMedicinals) // Constructor
     {
         MedicinalPrice = medicinalPrice;
         MedicinalName = medicinalName;
