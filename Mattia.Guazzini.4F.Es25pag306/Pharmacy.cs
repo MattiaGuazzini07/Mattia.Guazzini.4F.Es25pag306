@@ -13,12 +13,12 @@ public class Pharmacy
         Medicinals = new List<Medicinal>();
     }
     
-    public void AddMedicinal(string medicinalName, double medicinalPrice) // Add a medicinal to the list
+    public void AddMedicinal() // Add a medicinal to the list
     {
         Console.WriteLine("Which is the name of the medicinal?");
-        medicinalName = Console.ReadLine();
+        string medicinalName = Console.ReadLine();
         Console.WriteLine("Which is the price of the medicinal?");
-        medicinalPrice = Double.Parse(Console.ReadLine());
+        double medicinalPrice = Double.Parse(Console.ReadLine());
         Medicinals.Add(new Medicinal(Name, NMedicinals, medicinalPrice, medicinalName));
     }
 

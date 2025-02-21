@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Pharmacy pharmacy = new Pharmacy("Farmacia Guazzini", 10);
-        Medicinal medicinal = new Medicinal("Farmacia Guazzini", 10, 10.5, "Aspirina");
+        pharmacy.AddMedicinal();
 
         Console.WriteLine(pharmacy.ToString());
     }
