@@ -1,0 +1,15 @@
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\bin\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.exe
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\bin\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.deps.json
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\bin\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.runtimeconfig.json
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\bin\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.dll
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\bin\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.pdb
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.AssemblyInfo.cs
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.sourcelink.json
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.dll
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\refint\Mattia.Guazzini.4F.Es25pag306.dll
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.pdb
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\Mattia.Guazzini.4F.Es25pag306.genruntimeconfig.cache
+C:\Users\matti\Desktop\scuola\informatica\C#\Mattia.Guazzini.4F.Es25pag306\Mattia.Guazzini.4F.Es25pag306\obj\Debug\net8.0\ref\Mattia.Guazzini.4F.Es25pag306.dll

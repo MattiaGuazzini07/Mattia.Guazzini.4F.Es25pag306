@@ -13,7 +13,7 @@ class Program
         Console.WriteLine(pharmacy.ToString()); // Print the pharmacy description
         
         //Print the low cost's medicinal
-        Console.WriteLine("The low cost's medicinal is: ");
+        Console.Write("The low cost's medicinal is: ");
         double min = Double.MaxValue;
         foreach (Medicinal medicinal in pharmacy.Medicinals)
         {
@@ -22,6 +22,7 @@ class Program
                 min = medicinal.MedicinalPrice;
             }
         }
+        Console.WriteLine(min);
         
         //Print pharmacy's total price and pharmacy's name
         Console.WriteLine($"The total price of the pharmacy is: {pharmacy.TotalPrice()}");
