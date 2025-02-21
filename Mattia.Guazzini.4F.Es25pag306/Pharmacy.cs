@@ -12,8 +12,12 @@ public class Pharmacy
         NMedicinals = nMedicinals;
         Medicinals = new List<Medicinal>();
     }
-    
-    public void AddMedicinal(string medicinalName, double medicinalPrice) // Add a medicinal to the list
+    /// <summary>
+    /// Add a medicinal to the list
+    /// </summary>
+    /// <param name="medicinalName"></param>
+    /// <param name="medicinalPrice"></param>
+    public void AddMedicinal(string medicinalName, double medicinalPrice)
     {
         Console.WriteLine("Which is the name of the medicinal?");
         medicinalName = Console.ReadLine();
@@ -21,8 +25,11 @@ public class Pharmacy
         medicinalPrice = Double.Parse(Console.ReadLine());
         Medicinals.Add(new Medicinal(Name, NMedicinals, medicinalPrice, medicinalName));
     }
-
-    public double TotalPrice() // Calculate the total price of all the medicinals
+    /// <summary>
+    /// Calculate the total price of all the medicinals
+    /// </summary>
+    /// <returns></returns>
+    public double TotalPrice()
     {
         double totalPrice = 0;
         foreach (Medicinal medicinal in Medicinals)
@@ -31,8 +38,12 @@ public class Pharmacy
         }
         return totalPrice;
     }
-    
-    public double MedicinalPrice(string medicinalName) // Return the price of a specific medicinal
+    /// <summary>
+    /// Return the price of a specific medicinal
+    /// </summary>
+    /// <param name="medicinalName"></param>
+    /// <returns></returns>
+    public double MedicinalPrice(string medicinalName)
     {
         foreach (Medicinal medicinal in Medicinals)
         {
@@ -43,8 +54,11 @@ public class Pharmacy
         }
         return 0;
     }
-
-    public override string ToString() // Return the name of the pharmacy and the number of medicinals
+    /// <summary>
+    /// Description of the object
+    /// </summary>
+    /// <returns></returns>
+    public override string ToString() 
     {
         return $"Name: {Name}, Medicinals number: {NMedicinals}";
     }
