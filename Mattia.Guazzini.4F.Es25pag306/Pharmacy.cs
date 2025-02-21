@@ -2,5 +2,14 @@
 
 public class Pharmacy
 {
-    // ciao
+    public string Name { get; set; }
+    public int NMedicinals { get; set; }
+    List<Medicinal> Medicinals { get; set; }
+    
+    public Pharmacy(string name, int nMedicinals)
+    {
+        Name = name;
+        NMedicinals = nMedicinals;
+        Medicinals = new List<Medicinal>();
+    }
 }
