@@ -4,7 +4,7 @@ public class Pharmacy
 {
     public string Name { get; set; } // Name of the pharmacy
     public int NMedicinals { get; set; } // Number of medicinals
-    List<Medicinal> Medicinals { get; set; } // List of medicinals
+    public List<Medicinal> Medicinals { get; set; } // List of medicinals
     
     public Pharmacy(string name, int nMedicinals) // Constructor
     {
