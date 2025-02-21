@@ -26,13 +26,8 @@ class Program
         //Print pharmacy's total price and pharmacy's name
         Console.WriteLine($"The total price of the pharmacy is: {pharmacy.TotalPrice()}");
         Console.WriteLine($"The pharmacy's name is: {pharmacy.Name}");
-        
-        
-        
-        
-        
-        
-        
-        
+        Console.WriteLine("Insert a medicinal name to get the price");
+        string medicinalName = Console.ReadLine();
+        Console.WriteLine($"The price of {medicinalName} is {pharmacy.MedicinalPrice(medicinalName)}");
     }
 }
