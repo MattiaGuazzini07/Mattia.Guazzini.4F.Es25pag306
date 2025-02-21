@@ -9,7 +9,10 @@ public class Medicinal : Pharmacy
         MedicinalPrice = medicinalPrice;
         MedicinalName = medicinalName;
     }
-    
+    /// <summary>
+    /// Description of the object
+    /// </summary>
+    /// <returns>Description string</returns>
     public override string ToString()
     {
         return $"Name: {Name}, Medicinals number: {NMedicinals}, Price: {MedicinalPrice}";
