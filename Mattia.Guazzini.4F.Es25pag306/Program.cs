@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Pharmacy pharmacy = new Pharmacy("Farmacia Guazzini", 10);
+        Medicinal medicinal = new Medicinal("Farmacia Guazzini", 10, 10.5, "Aspirina");
+
+        Console.WriteLine(pharmacy.ToString());
     }
 }
