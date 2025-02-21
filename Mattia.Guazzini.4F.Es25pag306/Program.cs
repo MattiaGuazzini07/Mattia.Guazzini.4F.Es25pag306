@@ -22,5 +22,11 @@ class Program
                 min = medicinal.MedicinalPrice;
             }
         }
+        
+        //Print pharmacy's total price and pharmacy's name
+        Console.WriteLine($"The total price of the pharmacy is: {pharmacy.TotalPrice()}");
+        Console.WriteLine($"The pharmacy's name is: {pharmacy.Name}");
+        
+        
     }
 }
