@@ -1,6 +1,16 @@
 ﻿namespace Mattia.Guazzini._4F.Es25pag306;
 
-public class Medicinal
+public class Medicinal : Pharmacy
 {
+    public string MedicinalName { get; set; }
+    public double MedicinalPrice { get; set; }
+    public Medicinal(string name, int nMedicinals, double medicinalPrice) : base(name, nMedicinals)
+    {
+        MedicinalPrice = medicinalPrice;
+    }
     
+    public override string ToString()
+    {
+        return $"Name: {Name}, Medicinals number: {NMedicinals}, Price: {MedicinalPrice}";
+    }
 }
